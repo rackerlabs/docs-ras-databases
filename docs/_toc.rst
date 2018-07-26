@@ -4,5 +4,5 @@
    :includehidden:
    :maxdepth: 99
 
-   |service| Guides<self>
+   |service| Guides Rackspace Application Services for Databases
    index.rst
