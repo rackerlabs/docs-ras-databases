@@ -4,9 +4,6 @@
 Rackspace Application Services for Database
 ============================================
 
-.. include:: ../../README.md
-
-
 .. toctree::
    :hidden:
    :maxdepth: 2
@@ -19,4 +16,4 @@ Rackspace Application Services for Database
    ras-databases-handbook/admin-maintenance.rst
    ras-databases-handbook/backup-recovery.rst
    ras-databases-handbook/reporting.rst
-   ras-databases-handbook/troubleshoot.rst 
+   ras-databases-handbook/troubleshoot.rst

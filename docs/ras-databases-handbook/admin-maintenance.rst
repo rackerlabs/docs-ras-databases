@@ -22,7 +22,7 @@ client solutions, Rackspace will perform the following activities:
      - * Support DataStax Ops Center
 
 
-MIGRATION (Formerly END-TO-END ONBOARDING PROCESS)
+MIGRATION
 ----------
 
 Migrating databases can be complex, time-consuming, and costly if not

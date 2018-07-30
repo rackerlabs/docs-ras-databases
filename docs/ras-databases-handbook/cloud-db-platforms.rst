@@ -12,7 +12,7 @@ environments or Hybrid cloud solutions.
 AMAZON WEB SERVICES
 --------------------
 
-.. image:: images/AWS.jpg
+.. figure:: figures/AWS.jpg
    :width: 1.70625in
    :height: 0.65486in
    : align: right
@@ -65,7 +65,7 @@ Rackspace is an Amazon RDS migration partner.
 MICROSOFT AZURE
 ----------------
 
-.. image:: images/Azure.jpg
+.. figure:: figures/Azure.jpg
    :width: 2in
    :height: 0.32778in
    :align: right
