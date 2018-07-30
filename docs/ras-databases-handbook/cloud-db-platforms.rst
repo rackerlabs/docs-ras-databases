@@ -13,9 +13,6 @@ AMAZON WEB SERVICES
 --------------------
 
 .. figure:: figures/AWS.jpg
-   :width: 1.70625in
-   :height: 0.65486in
-   : align: right
 
 Amazon Web Services (AWS) database management services allow
 clients to quickly leverage cloud database services on a managed
@@ -66,9 +63,6 @@ MICROSOFT AZURE
 ----------------
 
 .. figure:: figures/Azure.jpg
-   :width: 2in
-   :height: 0.32778in
-   :align: right
 
 As a Microsoft partner and provider of managed services for
 Azure, Rackspace is in a unique position to meet client’s needs in
