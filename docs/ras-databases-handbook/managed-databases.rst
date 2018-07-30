@@ -3,7 +3,7 @@
 MANAGED DATABASES
 ==================
 
-This section...
+This section lists the SQL and non-SQL managed databases and services.
 
 MANAGED SQL DATABASES
 ----------------------

@@ -3,7 +3,9 @@
 PLANNING
 =========
 
-Intro text here...
+This section outlines two forms of planning to consider when deploying databases. Capacity planning identifies
+your immediate and long-term storage needs and storage architecture planning addresses the underlying architecture
+required to support those needs.
 
 CAPACITY PLANNING
 ------------------

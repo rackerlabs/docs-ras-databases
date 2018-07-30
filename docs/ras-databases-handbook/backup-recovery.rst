@@ -3,7 +3,8 @@
 BACKUP, RECOVERY, AND REPLICATION
 ==================================
 
-Intro text here...
+This section includes a description of services Rackspace provides to ensure that your data
+is backed up and can be recovered. 
 
 
 BACKUPS & EXPORT
