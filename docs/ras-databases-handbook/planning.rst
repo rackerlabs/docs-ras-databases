@@ -7,7 +7,7 @@ This section outlines two forms of planning to consider when deploying databases
 your immediate and long-term storage needs and storage architecture planning addresses the underlying architecture
 required to support those needs.
 
-Capacity Planning
+Capacity planning
 ------------------
 
 DBAs apply their experience and training to help clients determine their
@@ -21,7 +21,7 @@ clients to:
 -  Assist with determining when RAM or CPU upgrades will benefit overall
    DB workloads
 
-Storage Architecture
+Storage architecture
 ---------------------
 
 In order for databases to properly function, it is critical to plan and

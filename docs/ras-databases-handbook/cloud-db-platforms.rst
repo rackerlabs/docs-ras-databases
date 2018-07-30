@@ -1,6 +1,6 @@
 .. _cloud-platforms-ras-db-handbook:
 
-Cloud Database Platforms
+Cloud database platforms
 =========================
 
 Rackspace Database management solutions support and provide managed

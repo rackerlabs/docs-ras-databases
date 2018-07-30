@@ -36,7 +36,7 @@ MySQL clusters on Percona XtraDB for an active/active high availability
 design to meet client requirements. The team designs NoSQL replica sets
 and clusters using MongoDB, Cassandra, and others.
 
-The Primary DBA
+The primary DBA
 ----------------
 
 Every DBA Services account will be assigned a Primary DBA. A Primary DBA

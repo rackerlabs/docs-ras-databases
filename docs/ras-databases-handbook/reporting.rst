@@ -1,6 +1,6 @@
 .. _reporting-ras-db-handbook:
 
-Database Reporting
+Database reporting
 ===================
 
 In order to provide clients with active status updates for their

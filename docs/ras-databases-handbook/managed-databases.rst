@@ -1,11 +1,11 @@
 .. _mgd-dbs-ras-db-handbook:
 
-Managed Databases
+Managed databases
 ==================
 
 This section lists the SQL and non-SQL managed databases and services.
 
-Managed SQL Databases
+Managed SQL databases
 ----------------------
 
 Rackspace supports MySQL, Microsoft SQL Server, PostgreSQL, and Oracle
@@ -19,7 +19,7 @@ Linux/Unix Operating systems, Rackspace experts can design and support a
 wide variety of solutions. The Database services section below provides
 a description of the service provided on these technologies.
 
-Managed non-SQL Databases
+Managed non-SQL databases
 --------------------------
 
 Rackspace supports NoSQL database deployments for its clients ensuring
@@ -41,7 +41,7 @@ vendors allows its clients to take advantage of this higher level of
 expertise and guidance in designing and supporting these leading
 databases.
 
-Database Services
+Database services
 ------------------
 
 Database Management of all supported database platforms consists of the
@@ -78,7 +78,7 @@ following services:
    * -
      - * Memory utilization recommendations
 
-Monthly Licensing Options
+Monthly licensing options
 --------------------------
 
 Rackspace can provide convenient monthly licensing options for the
@@ -90,7 +90,7 @@ In addition, Rackspace can provide pricing options for database platform
 and service offerings from AWS and Microsoft Azure as part of a solution
 for clients.
 
-Supported Databases
+Supported databases
 --------------------
 
 .. list-table::

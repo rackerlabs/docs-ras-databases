@@ -1,6 +1,6 @@
 .. _install-config-ras-db-handbook:
 
-Software Installation and Configuration
+Software installation and configuration
 ========================================
 
 Proper installation and configuration of essential software is critical
@@ -34,13 +34,13 @@ necessary software for a variety of databases, including:
        -  Log shipping
        -  Replication
        -  HADR configuring and clustering
-     - MONGODB
+     - MongoDB
 
        -  Configuring and installation
        -  Replica sets
        -  Sharding
 
-   * - Cassandra & DataStax Enterprise
+   * - Cassandra and DataStax Enterprise
 
        -  Install software
        -  Configure
@@ -66,14 +66,14 @@ has a wide variety of partners who can offer support, and Rackers
 willing to learn a new technology. If your chosen is not already
 supported, let us know.
 
-Modification and Configuration Services
+Modification and configuration services
 ----------------------------------------
 
 Though clients are responsible for database content, Rackspace performs
 modification and configuration tasks in accordance with explicit client
 instructions.
 
-Connectivity Management
+Connectivity management
 ------------------------
 
 DBAs manage connectivity between the client application and database(s)

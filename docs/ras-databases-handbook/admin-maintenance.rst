@@ -1,6 +1,6 @@
 .. _admin-ras-db-handbook:
 
-Administration and Maintenance
+Administration and maintenance
 ===============================
 
 To maintain optimal database performance throughout the lifetime of
@@ -41,7 +41,7 @@ existing requirements as a part of “go-live”), and facilitate:
         possible in conjunction with a Professional Services migration
         engagement
 
-Security Management
+Security management
 --------------------
 
 Rackspace’s advanced security and encryption services can help protect
@@ -61,7 +61,7 @@ Microsoft SQL Server
  Work with Rackspace Security Team on 3rd party encryption software
   (TDE)  Deploy and configure Microsoft TDE
 
-All Other Vendors
+All other vendors
 ~~~~~~~~~~~~~~~~~~
 
 -  Work with Rackspace Security Team to deploy PCI compliant solutions
@@ -69,7 +69,7 @@ All Other Vendors
 -  Enable auditing features built into the database products, as
         requested
 
-DB Clustering and High Availability
+DB clustering and high availability
 ------------------------------------
 
 .. list-table::

@@ -1,8 +1,8 @@
 .. _ras-for-databases-handbook:
 
-============================================
-Rackspace Application Services for Database
-============================================
+=============================================
+Rackspace Application Services for Databases
+=============================================
 
 .. toctree::
    :hidden:
