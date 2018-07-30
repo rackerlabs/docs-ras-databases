@@ -5,4 +5,4 @@
    :maxdepth: 99
 
    RAS Databases Handbook<self>
-   docs/index.rst
+   index.rst
