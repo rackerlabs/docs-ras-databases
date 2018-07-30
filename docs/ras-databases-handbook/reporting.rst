@@ -1,6 +1,6 @@
 .. _reporting-ras-db-handbook:
 
-DATABASE REPORTING
+Database Reporting
 ===================
 
 In order to provide clients with active status updates for their
@@ -9,7 +9,7 @@ configured to generate the following reports:
 
 .. _oracle-1:
 
-ORACLE
+Oracle
 -------
 
 .. list-table::
@@ -27,7 +27,7 @@ ORACLE
    * - * Custom content check s
      - * Replication technologies
 
-MICROSOFT SQL Server
+Microsoft SQL Server
 ---------------------
 
 .. list-table::
@@ -49,7 +49,7 @@ MICROSOFT SQL Server
    * - * Deadlock detection
      -
 
-MYSQL
+MySQL
 ------
 
 .. list-table::
@@ -79,7 +79,7 @@ DB2
    * - * Deadlock detection
      - * Tablespace containers utilization
 
-DATASTAX ENTERPRISE APACHE CASSANDRA
+Datastax Enterprise Apache Cassandra
 -------------------------------------
 
 .. list-table::
@@ -97,7 +97,7 @@ DATASTAX ENTERPRISE APACHE CASSANDRA
    * - * Low disk space in database volumes n
      -
 
-MONGODB
+MongoDB
 --------
 
 .. list-table::

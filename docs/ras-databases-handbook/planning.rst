@@ -1,13 +1,13 @@
 .. _planning-ras-db-handbook:
 
-PLANNING
+Planning
 =========
 
 This section outlines two forms of planning to consider when deploying databases. Capacity planning identifies
 your immediate and long-term storage needs and storage architecture planning addresses the underlying architecture
 required to support those needs.
 
-CAPACITY PLANNING
+Capacity Planning
 ------------------
 
 DBAs apply their experience and training to help clients determine their
@@ -21,7 +21,7 @@ clients to:
 -  Assist with determining when RAM or CPU upgrades will benefit overall
    DB workloads
 
-STORAGE ARCHITECTURE
+Storage Architecture
 ---------------------
 
 In order for databases to properly function, it is critical to plan and

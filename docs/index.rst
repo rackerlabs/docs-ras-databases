@@ -6,7 +6,7 @@ Rackspace Application Services for Database
 
 .. toctree::
    :hidden:
-   :maxdepth: 2
+   :maxdepth: 3
 
    ras-databases-handbook/overview.rst
    ras-databases-handbook/managed-databases.rst

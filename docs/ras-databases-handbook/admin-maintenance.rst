@@ -1,7 +1,7 @@
 .. _admin-ras-db-handbook:
 
-ADMINISTRATION & MAINTENANCE
-=============================
+Administration and Maintenance
+===============================
 
 To maintain optimal database performance throughout the lifetime of
 client solutions, Rackspace will perform the following activities:
@@ -22,7 +22,7 @@ client solutions, Rackspace will perform the following activities:
      - * Support DataStax Ops Center
 
 
-MIGRATION
+Migration
 ----------
 
 Migrating databases can be complex, time-consuming, and costly if not
@@ -41,27 +41,27 @@ existing requirements as a part of “go-live”), and facilitate:
         possible in conjunction with a Professional Services migration
         engagement
 
-SECURITY MANAGEMENT
+Security Management
 --------------------
 
 Rackspace’s advanced security and encryption services can help protect
 the integrity of client databases and comply with third-party security
 standards.
 
-ORACLE
+Oracle
 ~~~~~~~
 
  Deploy and configure the advanced security option for tablespace
   and network encryption (TDE)  Work with Rackspace Security Team on
   3rd-party encryption software (TDE)
 
-MICROSOFT SQL SERVER
+Microsoft SQL Server
 ~~~~~~~~~~~~~~~~~~~~~
 
  Work with Rackspace Security Team on 3rd party encryption software
   (TDE)  Deploy and configure Microsoft TDE
 
-ALL OTHER VENDORS
+All Other Vendors
 ~~~~~~~~~~~~~~~~~~
 
 -  Work with Rackspace Security Team to deploy PCI compliant solutions
@@ -69,8 +69,8 @@ ALL OTHER VENDORS
 -  Enable auditing features built into the database products, as
         requested
 
-DB CLUSTERING/HIGH AVAILABILITY
--------------------------------
+DB Clustering and High Availability
+------------------------------------
 
 .. list-table::
    :widths: 20 50
@@ -88,8 +88,8 @@ DB CLUSTERING/HIGH AVAILABILITY
      -
 
 
-AUDITING
---------
+Auditing
+---------
 
 Rackspace provides customized vendor-supplied auditing features to
 assist client compliance objectives.

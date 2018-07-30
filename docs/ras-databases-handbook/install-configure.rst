@@ -1,7 +1,7 @@
 .. _install-config-ras-db-handbook:
 
-SOFTWARE INSTALLATION & CONFIGURATION
-======================================
+Software Installation and Configuration
+========================================
 
 Proper installation and configuration of essential software is critical
 for database functionality. Rackspace will install and configure the
@@ -66,14 +66,14 @@ has a wide variety of partners who can offer support, and Rackers
 willing to learn a new technology. If your chosen is not already
 supported, let us know.
 
-MODIFICATION & CONFIGURATION SERVICES
---------------------------------------
+Modification and Configuration Services
+----------------------------------------
 
 Though clients are responsible for database content, Rackspace performs
 modification and configuration tasks in accordance with explicit client
 instructions.
 
-CONNECTIVITY MANAGEMENT
+Connectivity Management
 ------------------------
 
 DBAs manage connectivity between the client application and database(s)
@@ -89,7 +89,7 @@ design requirement or on an on-going basis. Performance tools include:
 -  Oracle SQL*Net
 
 
-EVENT NOTIFICATION
+Event notification
 -------------------
 
 If threshold warning levels exceed a critical parameter, an alert is

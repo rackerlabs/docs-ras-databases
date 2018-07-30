@@ -1,6 +1,6 @@
 .. _overview-ras-db-handbook:
 
-OVERVIEW
+Overview
 =========
 
 Rackspace’s Application Services for Databases (DBA Services) offering
@@ -36,8 +36,8 @@ MySQL clusters on Percona XtraDB for an active/active high availability
 design to meet client requirements. The team designs NoSQL replica sets
 and clusters using MongoDB, Cassandra, and others.
 
-THE PRIMARY DBA
----------------
+The Primary DBA
+----------------
 
 Every DBA Services account will be assigned a Primary DBA. A Primary DBA
 is a highly skilled and experienced database administrator who will
@@ -51,8 +51,8 @@ business reviews. Most Primary DBAs are US based and available during
 normal business hours. However, Primary DBAs in other geographies or
 time zones can be available.
 
-THE DATABASE OPERATIONS TEAM
-----------------------------
+The Database Operations Team
+-----------------------------
 
 The Primary DBAs are supported by our 24x7x365 team of our DBA
 operations teams. These DBAs handle all alert triage, simple

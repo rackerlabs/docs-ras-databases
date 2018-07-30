@@ -1,6 +1,6 @@
 .. _troubleshoot-ras-db-handbook:
 
-TROUBLESHOOTING
+Troubleshooting
 ================
 
 Database experts will assist clients with troubleshooting their database

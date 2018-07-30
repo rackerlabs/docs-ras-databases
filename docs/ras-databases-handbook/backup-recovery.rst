@@ -1,13 +1,13 @@
 .. _data-recovery-ras-db-handbook:
 
-BACKUP, RECOVERY, AND REPLICATION
+Backup, Recovery, and Restoration
 ==================================
 
 This section includes a description of services Rackspace provides to ensure that your data
-is backed up and can be recovered. 
+is backed up and can be recovered.
 
 
-BACKUPS & EXPORT
+Backups and Export
 -----------------
 
 Hot backup, a backup performed while the database is running, is
@@ -23,8 +23,8 @@ text file for maximum portability. Backup and export tools include:
    * - * EXPDP (Export Data Pump) to automate schema
      - * MySQL backups with mysqldump, mydumper, Percona XtraBackup, and Holland Backup
 
-RESTORATION & RECOVERY
------------------------
+Restoration and Recovery
+-------------------------
 
 Rackspace DBAs have the expertise to recover databases from crashed
 states or storage failures. If there is a critical failure in the
@@ -37,7 +37,7 @@ infrastructure, DBAs will:
 -  Escalate additional needs (e.g. hardware replacement, SEAP-related
    activities, etc.) as necessary
 
-DATA RESCUE
+Data Rescue
 ------------
 
 If a user deletes important data, Rackspace can restore the database
@@ -47,7 +47,7 @@ this service. By leveraging such options as Rapid Deployment, Rackspace
 can bring new equipment online to quickly respond to a data rescue
 emergency.
 
-REPLICATION
+Replication
 ------------
 
 Replication limits inconsistencies between software and/or hardware components,

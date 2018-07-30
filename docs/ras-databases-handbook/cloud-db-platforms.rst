@@ -1,6 +1,6 @@
 .. _cloud-platforms-ras-db-handbook:
 
-CLOUD DATABASE PLATFORMS
+Cloud Database Platforms
 =========================
 
 Rackspace Database management solutions support and provide managed
@@ -9,7 +9,7 @@ Hosted Private Clouds, Dedicated Environments in one of Rackspace’s
 global data centers, Dedicated and cloud based VMWare virtualized
 environments or Hybrid cloud solutions.
 
-AMAZON WEB SERVICES
+Amazon Web Services
 --------------------
 
 Amazon Web Services (AWS) database management services allow
@@ -38,7 +38,7 @@ and services including:
 Rackspace employs numerous tools to optimize these services including
 AWS Schema conversion tool, AWS Migration services, and more.
 
-AMAZON RELATIONAL DATABASE SERVICE
+Amazon Relational Database Service
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Amazon Relational Database Service (RDS) is a web service that
@@ -57,7 +57,7 @@ requirements.
 
 Rackspace is an Amazon RDS migration partner.
 
-MICROSOFT AZURE
+Microsoft Azure
 ----------------
 
 As a Microsoft partner and provider of managed services for
