@@ -7,7 +7,7 @@ Rackspace Application Services for Databases
 This document provides a handbook for Rackspace
 Application Services (RAS) for databases.
 
-Use the following links to jump directly to
+Use the following links to go directly to
 information about the services.
 
 .. toctree::
