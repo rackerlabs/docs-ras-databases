@@ -12,8 +12,6 @@ environments or Hybrid cloud solutions.
 AMAZON WEB SERVICES
 --------------------
 
-.. figure:: figures/AWS.jpg
-
 Amazon Web Services (AWS) database management services allow
 clients to quickly leverage cloud database services on a managed
 database platform. During the engagement process, a consultation phase
@@ -61,8 +59,6 @@ Rackspace is an Amazon RDS migration partner.
 
 MICROSOFT AZURE
 ----------------
-
-.. figure:: figures/Azure.jpg
 
 As a Microsoft partner and provider of managed services for
 Azure, Rackspace is in a unique position to meet client’s needs in
