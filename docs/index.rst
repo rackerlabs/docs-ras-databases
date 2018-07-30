@@ -4,16 +4,23 @@
 Rackspace Application Services for Databases
 =============================================
 
+This document provides a handbook for Rackspace
+Application Services (RAS) for databases.
+
+Use the following links to jump directly to
+information about the service.
+
 .. toctree::
    :hidden:
    :maxdepth: 3
 
-   ras-databases-handbook/overview.rst
-   ras-databases-handbook/managed-databases.rst
-   ras-databases-handbook/cloud-db-platforms.rst
-   ras-databases-handbook/planning.rst
-   ras-databases-handbook/install-configure.rst
-   ras-databases-handbook/admin-maintenance.rst
-   ras-databases-handbook/backup-recovery.rst
-   ras-databases-handbook/reporting.rst
-   ras-databases-handbook/troubleshoot.rst
+   RAS for Databases Handbook <self>
+   ras-databases-handbook/overview
+   ras-databases-handbook/managed-databases
+   ras-databases-handbook/cloud-db-platforms
+   ras-databases-handbook/planning
+   ras-databases-handbook/install-configure
+   ras-databases-handbook/admin-maintenance
+   ras-databases-handbook/backup-recovery
+   ras-databases-handbook/reporting
+   ras-databases-handbook/troubleshoot
