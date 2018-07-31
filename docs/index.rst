@@ -4,6 +4,9 @@
 Rackspace Application Services for Databases
 =============================================
 
+
+*Last updated:* |today|
+
 This document provides a handbook for Rackspace
 Application Services (RAS) for databases.
 
