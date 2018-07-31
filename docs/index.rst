@@ -15,7 +15,6 @@ of the page to move through the information.
 .. toctree::
    :maxdepth: 2
 
-   RAS for Databases Handbook <self>
    ras-databases-handbook/overview
    ras-databases-handbook/managed-databases
    ras-databases-handbook/cloud-db-platforms
