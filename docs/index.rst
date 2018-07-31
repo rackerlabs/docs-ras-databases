@@ -8,7 +8,7 @@ This document provides a handbook for Rackspace
 Application Services (RAS) for databases.
 
 Use the links on the left to go directly to
-information about the services, or use the 
+information about the services, or use the
 **Next** and **Previous** arrows at the bottom
 of the page to move through the information.
 
