@@ -13,8 +13,7 @@ information about the services, or use the
 of the page to move through the information.
 
 .. toctree::
-   :hidden:
-   :maxdepth: 3
+   :maxdepth: 2
 
    RAS for Databases Handbook <self>
    ras-databases-handbook/overview
