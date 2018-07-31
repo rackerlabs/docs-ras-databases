@@ -15,15 +15,17 @@ included in this service. An export is a conversion of a database to a
 text file for maximum portability. Backup and export tools include:
 
 .. list-table::
-   :widths: 50 50
+   :widths: 20 50
    :header-rows: 0
 
    * - * Oracle RMAN (Recovery Manager) to perform and monitor hot backups
      - * Commvault database, tablespace and incremental level backups for select
          databases
+         
    * - * EXPDP (Export Data Pump) to automate schema
      - * MySQL backups with mysqldump, mydumper, Percona XtraBackup, and Holland
          Backup
+         
 
 Restoration and recovery
 -------------------------
