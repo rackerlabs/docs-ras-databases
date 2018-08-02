@@ -10,8 +10,8 @@ Backups and export
 -------------------
 
 Hot backup, a backup performed while the database is running, is
-included in this service. An export is a conversion of a database to a
-text file for maximum portability. Backup and export tools include:
+included in this service. An export is a conversion of a database to
+a text file for maximum portability. Backup and export tools include:
 
 .. list-table::
    :widths: 20 50
