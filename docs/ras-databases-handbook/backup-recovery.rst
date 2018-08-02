@@ -3,9 +3,8 @@
 Backup, recovery, and restoration
 ==================================
 
-This section includes a description of services Rackspace provides to ensure
-that your data is backed up and can be recovered.
-
+This section includes a description of services Rackspace provides to
+ensure that your data is backed up and can be recovered.
 
 Backups and export
 -------------------
