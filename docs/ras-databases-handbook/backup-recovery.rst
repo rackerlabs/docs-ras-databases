@@ -18,12 +18,19 @@ text file for maximum portability. Backup and export tools include:
    :header-rows: 0
 
    * - * Oracle RMAN (Recovery Manager) to perform and monitor hot backups
+     - * Commvault database, tablespace and incremental level backups for select
+         databases
+  
+   * - * EXPDP (Export Data Pump) to automate schema
+     - * MySQL backups with mysqldump, mydumper, Percona XtraBackup, and Holland
+         Backup
      - * Commvault database, tablespace and incremental level backups for
          select databases
 
    * - * EXPDP (Export Data Pump) to automate schema
      - * MySQL backups with mysqldump, mydumper, Percona XtraBackup, and
          Holland Backup
+
 
 Restoration and recovery
 -------------------------

@@ -19,7 +19,7 @@ Linux/Unix Operating systems, Rackspace experts can design and support a
 wide variety of solutions. The Database services section below provides
 a description of the service provided on these technologies.
 
-Managed non-SQL databases
+Managed NoSQL databases
 --------------------------
 
 Rackspace supports NoSQL database deployments for its clients ensuring
