@@ -4,7 +4,7 @@ Planning
 =========
 
 This section describes the following forms of planning to consider when deploying
-databases.
+databases:
 
 - Capacity planning identifies your immediate and long-term storage
   needs.
