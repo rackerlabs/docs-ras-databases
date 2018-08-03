@@ -4,7 +4,7 @@ Database reporting
 ===================
 
 In order to provide clients with active status updates for their
-databases and associated content, Oracle, MSSQL and MySQL databases are
+databases and associated content, Oracle, Microsoft SQL, and MySQL databases are
 configured to generate the following reports:
 
 .. _oracle-1:
@@ -16,7 +16,8 @@ Oracle
    :widths: 20 50
    :header-rows: 0
 
-   * - * AWR/ADDM reports
+   * - * Automatic Workload Repository (AWR) and Automatic Database Diagnostic
+         Monitor (ADDM) reports
      - * I/O statistics
    * - * Backup success
      - * Low disk space in database volumes
@@ -24,7 +25,7 @@ Oracle
      - * Memory and CPU utilization
    * - * Connection counts
      - * Oracle listener response
-   * - * Custom content check s
+   * - * Custom content checks
      - * Replication technologies
 
 Microsoft SQL Server
@@ -57,9 +58,9 @@ MySQL
    :header-rows: 0
 
    * - * Backup connection success
-     - * Low disk space in database volumes ics
-   * - * Custom Content check
-     - * Memory and CPU Utilization
+     - * Low disk space in database volumes ICS
+   * - * Custom content check
+     - * Memory and CPU utilization
    * - * Database growth
      - * Network listener response
    * - * I/O Statistics
@@ -91,10 +92,10 @@ Datastax Enterprise Apache Cassandra
    * - * Connection counts
      - * Network listener response
    * - * Custom content check
-     - * OpsCenter Report
+     - * OpsCenter report
    * - * I/O statistics
      - * Replication technologies
-   * - * Low disk space in database volumes n
+   * - * Low disk space in database volumes
      -
 
 MongoDB
@@ -107,7 +108,7 @@ MongoDB
    * - * Backup success
      - * Memory and CPU utilization
    * - * Connection counts
-     - * MMS Reports
+     - * MMS reports
    * - * I/O statistics
      - * Network listener response
    * - * Low disk space in database volumes
