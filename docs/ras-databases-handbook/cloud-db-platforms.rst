@@ -8,10 +8,10 @@ services for the following platforms:
 
 - AWS
 - Azure
-- Multiple Hosted Private Clouds
-- Dedicated Environments in one of Rackspace’s global data centers
-- Dedicated and cloud based VMWare virtualized environments or Hybrid cloud
-  solutions.
+- Multiple hosted private clouds
+- Dedicated environments in one of Rackspace’s global data centers
+- Dedicated and cloud-based VMWare virtualized environments or hybrid cloud
+  solutions
 
 Amazon Web Services
 --------------------
