@@ -64,4 +64,4 @@ database as a service with scalability, high availability with SLAs, data
 protection, replication, and restoration services. A wide variety of use cases
 are met with the service, whether for applications built on .NET, or for
 combining the Azure cloud database with on-premises, dedicated hardware.
-Rackspace database services for Azure supports Microsoft SQL Server 2016.
+Rackspace database services for Azure supporting Microsoft SQL Server 2016.
