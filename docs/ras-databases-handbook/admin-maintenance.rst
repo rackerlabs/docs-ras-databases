@@ -52,12 +52,14 @@ Oracle
 -  Work with the Rackspace Security team on third-party encryption software
    (TDE).
 
+
 Microsoft SQL Server
 ~~~~~~~~~~~~~~~~~~~~~
 
 -  Work with the Rackspace Security team on third-party encryption software
    (TDE).
 -  Deploy and configure Microsoft encryption software (TDE).
+
 
 All other vendors
 ~~~~~~~~~~~~~~~~~~
