@@ -34,8 +34,8 @@ requirements as a part of “go-live”. They also facilitate the following item
 -  Non-Rackspace hosted database migrations to Rackspace facilities.
 -  Physical to virtual migrations (P2V) for legacy environments.
 -  Vendor-to-vendor migrations (such as, Oracle to Microsoft SQL Server) are
-        possible in conjunction with a Professional Services migration
-        engagement.
+   possible in conjunction with a Professional Services migration
+   engagement.
 
 Security management
 --------------------
@@ -47,17 +47,17 @@ standards.
 Oracle
 ~~~~~~~
 
- Deploy and configure the advanced security option for tablespace and network
-  encryption (TDE).
- Work with the Rackspace Security team on third-party encryption software
-  (TDE).
+-  Deploy and configure the advanced security option for tablespace and network
+   encryption (TDE).
+-  Work with the Rackspace Security team on third-party encryption software
+   (TDE).
 
 Microsoft SQL Server
 ~~~~~~~~~~~~~~~~~~~~~
 
- Work with the Rackspace Security team on third-party encryption software
-  (TDE).
- Deploy and configure Microsoft encryption software (TDE).
+-  Work with the Rackspace Security team on third-party encryption software
+   (TDE).
+-  Deploy and configure Microsoft encryption software (TDE).
 
 All other vendors
 ~~~~~~~~~~~~~~~~~~
