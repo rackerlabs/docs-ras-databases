@@ -83,9 +83,9 @@ strategies to maximize usability of their database infrastructure. This service
 is provided as an initial design requirement or on an on-going basis. The
 following performance tools are included:
 
--  SQL/*Net
+-  SQL\*Net
 -  Java Database Connectivity (JDBC) connection pools
--  Oracle SQL/*Net
+-  Oracle SQL\*Net
 
 
 Event notification
