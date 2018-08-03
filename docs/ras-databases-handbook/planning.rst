@@ -3,7 +3,7 @@
 Planning
 =========
 
-This section the following forms of planning to consider when deploying
+This section describes the following forms of planning to consider when deploying
 databases.
 
 - Capacity planning identifies your immediate and long-term storage
@@ -34,8 +34,8 @@ storage implementation allows for the isolation of performance
 bottlenecks. DBAs are responsible for performing the following task as
 necessary:
 
--  Separating the OS from the database at the disk layer
--  Separating the database from the backup disks
+-  Separating the OS from the database at the disk layer.
+-  Separating the database from the backup disks.
 -  Isolating I/O bottleneck areas to discrete disk storage that can be
    tuned for the required workloads. These tasks are performed on storage area
    network (SAN) storage and local storage.
