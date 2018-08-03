@@ -16,7 +16,7 @@ Oracle
    :widths: 20 50
    :header-rows: 0
 
-   * - * Automatic Workload Repository(AWR) and Automatic Database Diagnostic
+   * - * Automatic Workload Repository (AWR) and Automatic Database Diagnostic
          Monitor (ADDM) reports
      - * I/O statistics
    * - * Backup success
