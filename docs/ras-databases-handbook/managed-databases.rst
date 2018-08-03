@@ -3,7 +3,7 @@
 Managed databases
 ==================
 
-This section describes the SQL and noSQL managed databases and services.
+This section describes the SQL and NoSQL managed databases and services.
 
 Managed SQL databases
 ----------------------
