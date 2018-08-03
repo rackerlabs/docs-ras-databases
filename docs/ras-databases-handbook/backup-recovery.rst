@@ -26,6 +26,12 @@ included:
    * - * Export Data Pump (EXPDP) to automate schema
      - * MySQL backups with mysqldump, mydumper, Percona XtraBackup, and Holland
          Backup
+     - * Commvault database, tablespace and incremental level backups for
+         select databases
+
+   * - * EXPDP (Export Data Pump) to automate schema
+     - * MySQL backups with mysqldump, mydumper, Percona XtraBackup, and
+         Holland Backup
 
 
 Restoration and recovery
