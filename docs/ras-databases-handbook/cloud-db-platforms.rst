@@ -31,7 +31,7 @@ and services:
 
 - Amazon Relational Database Service (RDS), including Aurora
 - Amazon Redshift
-- AmazonDynamoDB
+- Amazon DynamoDB
 
 Rackspace employs numerous tools to optimize these services including the AWS
 Schema Conversion Tool (AWS SCT), the AWS Database Migration Service, and more.
