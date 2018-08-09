@@ -3,7 +3,7 @@
 Software installation and configuration
 ========================================
 
-Proper installation and configuration of essential software is critical for
+Proper installation and configuration of essential software is critical for 
 database functionality. Rackspace installs and configures the following
 software for a variety of databases:
 
@@ -71,6 +71,8 @@ Modification and configuration services
 Though clients are responsible for database content, Rackspace performs
 modification and configuration tasks in accordance with explicit client
 instructions.
+
+.. DO NOT GO OVER 79 characters per line
 
 Connectivity management
 ------------------------
