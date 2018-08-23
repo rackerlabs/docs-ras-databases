@@ -162,10 +162,10 @@ Supported databases
        - Ubuntu
        - Red Hat Linux 6, 7
        - Windows 2012, 2016
-    * - CouchDB
-      - 2.x
-      -
-        - Oracle Linux 6, 7
-        - Ubuntu
-        - Red Hat Linux 6, 7
-        - Windows 2012, 2016
+   * - CouchDB
+     - 2.x
+     -
+       - Oracle Linux 6, 7
+       - Ubuntu
+       - Red Hat Linux 6, 7
+       - Windows 2012, 2016
