@@ -141,20 +141,31 @@ Supported databases
        - Ubuntu
        - Red Hat Linux 6, 7
        - Windows 2008, 2012, 2016
-   * - Apache Cassandra and DataStax Enterprise
-     - 2.0, 2.1, and 4.6 DataStax Enterprise
+   * - DataStax Enterprise
+     - 5.x, 6.x DataStax
      -
        - Oracle Linux 6, 7
-       - Debian
        - Amazon Linux AMI
        - Ubuntu
        - Red Hat Linux 6, 7
-       - Windows 2008, 2012
-   * - CouchDB and Couchbase
+   * - Apache Cassandra
+     - 3.x
+     -
+       - Oracle Linux 6, 7
+       - Amazon Linux AMI
+       - Ubuntu
+       - Red Hat Linux 6, 7
+   * - Couchbase
      - 5.x
      -
        - Oracle Linux 6, 7
-       - Debian
+       - Ubuntu
+       - Red Hat Linux 6, 7
+       - Windows 2012, 2016
+* - CouchDB
+     - 2.x
+     -
+       - Oracle Linux 6, 7
        - Ubuntu
        - Red Hat Linux 6, 7
        - Windows 2012, 2016
