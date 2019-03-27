@@ -16,9 +16,9 @@ Oracle
    :widths: 20 50
    :header-rows: 0
 
-   * - * Automatic Workload Repository (AWR) and Automatic Database Diagnostic
-         Monitor (ADDM) reports
-     - * I/O statistics
+   * - * I/O statistics
+     - * Automatic Workload Repository (AWR) and Automatic Database Diagnostic
+         Monitor (ADDM) reports when licensed for Oracle Enterprise Edition
    * - * Backup success
      - * Low disk space in database volumes
    * - * Blocking sessions
