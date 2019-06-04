@@ -111,7 +111,7 @@ Supported databases
    * - Microsoft SQL Servers
      - 2008, 2008R2, 2012, 2014, 2016, 2017
      -
-       - Windows 2008, 2008 R2, 2012, 2012 R2, 2006
+       - Windows 2008, 2008 R2, 2012, 2012 R2, 2016
    * - MySQL Server
      - 5.5 and up
      -
