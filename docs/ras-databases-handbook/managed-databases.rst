@@ -79,12 +79,12 @@ following services:
 Monthly licensing options
 --------------------------
 
-Rackspace provideS convenient monthly licensing options for the
+Rackspace provides convenient monthly licensing options for the
 following databases:
 
 - Microsoft SQL server
-- Oracle (Oracle MySQL enterprise edition, Oracle Database Standard or
-  Enterprise edition, 11g, 12c)
+- Oracle (Oracle MySQL Community or Enterprise Edition, Oracle Database Standard or
+  Enterprise edition, 11g, 12c, 18c)
 - DataStax Cassandra Enterprise.
 
 In addition, Rackspace provideS pricing options for database platform
@@ -102,7 +102,7 @@ Supported databases
      - Software versions
      - OS versions
    * - Oracle
-     - 11g R1, 11g R2, 12c
+     - 11g R1, 11g R2, 12c, 18c
      -
        - Oracle Linux 6, 7
        - Oracle Solaris 10, 11
@@ -119,7 +119,7 @@ Supported databases
        - Red Hat Linux 6,7
        - Oracle Linux 6,7
        - Windows 2008, 2012
-   * - DB2
+   * - DB2 (supported via partners)
      - 9.1, 9.5, 9.7
      -
        - Red Hat Linux 6
