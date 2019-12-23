@@ -138,7 +138,7 @@ Supported databases
        - Oracle Linux 6, 7
        - SUSE Linux
        - Amazon Linux AMI
-       - Ubuntu
+       - the Ubuntu operating system
        - Red Hat Linux 6, 7
        - Windows 2008, 2012, 2016
    * - DataStax Enterprise
@@ -146,26 +146,26 @@ Supported databases
      -
        - Oracle Linux 6, 7
        - Amazon Linux AMI
-       - Ubuntu
+       - the Ubuntu operating system
        - Red Hat Linux 6, 7
    * - Apache Cassandra
      - 3.x
      -
        - Oracle Linux 6, 7
        - Amazon Linux AMI
-       - Ubuntu
+       - the Ubuntu operating system
        - Red Hat Linux 6, 7
    * - Couchbase
      - 5.x
      -
        - Oracle Linux 6, 7
-       - Ubuntu
+       - the Ubuntu operating system
        - Red Hat Linux 6, 7
        - Windows 2012, 2016
    * - CouchDB
      - 2.x
      -
        - Oracle Linux 6, 7
-       - Ubuntu
+       - the Ubuntu operating system
        - Red Hat Linux 6, 7
        - Windows 2012, 2016
