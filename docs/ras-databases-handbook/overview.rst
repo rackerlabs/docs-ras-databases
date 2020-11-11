@@ -34,7 +34,7 @@ to meet a wide variety of use cases.
 The Rackspace Database Management team is highly skilled in deploying and
 managing MySQL clusters on Percona XtraDB for an active-active, HA design to
 meet client requirements. The team designs NoSQL replica sets and clusters
-using MongoDB, Cassandra, and others.
+using MongoDB, and others.
 
 The Lead DBA
 ----------------

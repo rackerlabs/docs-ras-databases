@@ -40,18 +40,6 @@ software for a variety of databases:
        -  Replica sets
        -  Sharding
 
-   * - Cassandra and DataStax Enterprise
-
-       -  Install software
-       -  Configure
-       -  Replica sets
-       -  Sharding
-     - PostgreSQL and EnterpriseDB
-
-       -  Install software
-       -  Configuring clustering
-       -  Replication
-
    * - Couchbase and CouchDB
 
        - Install software
