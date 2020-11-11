@@ -80,24 +80,6 @@ DB2
    * - * Deadlock detection
      - * Tablespace containers utilization
 
-Datastax Enterprise Apache Cassandra
--------------------------------------
-
-.. list-table::
-   :widths: 20 50
-   :header-rows: 0
-
-   * - * Backup success
-     - * Memory and CPU utilization
-   * - * Connection counts
-     - * Network listener response
-   * - * Custom content check
-     - * OpsCenter report
-   * - * I/O statistics
-     - * Replication technologies
-   * - * Low disk space in database volumes
-     -
-
 MongoDB
 --------
 

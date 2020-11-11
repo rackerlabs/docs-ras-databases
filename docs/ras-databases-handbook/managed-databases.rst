@@ -27,8 +27,7 @@ performance, scalability, security, and availability meets enterprise level
 requirements. Rackspace experts can assist clients in designing the complete
 stack of the solution from the network to the database. Rackspace supports a
 broad array of platforms to design a solution to meet client specific
-requirements. For example, Rackspace partners with DataStax to offer an
-enterprise grade Apache Cassandra offering and with Couchbase to offer a fully
+requirements. For example, Rackspace partners with Couchbase to offer a fully
 supported, monitored, and enterprise-grade CouchDB solution.
 
 Enterprise-grade solutions provide fully supported software with comprehensive
@@ -85,7 +84,6 @@ following databases:
 - Microsoft SQL server
 - Oracle (Oracle MySQL Community or Enterprise Edition, Oracle Database Standard or
   Enterprise edition, 11g, 12c, 18c)
-- DataStax Cassandra Enterprise.
 
 In addition, Rackspace provideS pricing options for database platform
 and service offerings from AWS and Microsoft Azure as part of a solution
@@ -143,13 +141,6 @@ Supported databases
        - Windows 2008, 2012, 2016
    * - DataStax Enterprise
      - 5.x, 6.x DataStax
-     -
-       - Oracle Linux 6, 7
-       - Amazon Linux AMI
-       - the Ubuntu operating system
-       - Red Hat Linux 6, 7
-   * - Apache Cassandra
-     - 3.x
      -
        - Oracle Linux 6, 7
        - Amazon Linux AMI
