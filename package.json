@@ -5,7 +5,7 @@
     },
     "private": true,
     "browserslist": "> 1%",
-    "main": "_static/js/index.js",
+    "main": "docs/_static/js/index.js",
     "scripts": {
         "build": "cd docs && make clean html && cd .. && webpack --config webpack.prod.js",
         "start": "npm run build && webpack serve --open --config webpack.dev.js",
