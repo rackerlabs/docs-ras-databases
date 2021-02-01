@@ -5,30 +5,12 @@
 
 [build]
   publish = "docs/_build/html"
-  command = "npm run build"
+  command = "cd docs && make clean html && cd .."
 
 [context.production]
   publish = "docs/_build/html"
-  command = "npm run build"
+  command = "cd docs && make clean html && cd .."
 
 [context.deploy-preview]
   publish = "docs/_build/html"
-  command = "npm run build"
-
-[[redirects]]
-  from = "/"
-  to = "/docs/ras-databases/"
-  status = 301
-  force = false
-
-[[redirects]]
-  from = "/*"
-  to = "/docs/ras-databases/:splat"
-  status = 301
-  force = false
-
-[[redirects]]
-  from = "/docs/ras-databases/"
-  to = "/docs/ras-databases/ras-databases-handbook/"
-  status = 200
-  force = false
+  command = "cd docs && make clean html && cd .."
