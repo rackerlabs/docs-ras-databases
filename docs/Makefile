@@ -51,9 +51,9 @@ clean:
 	rm -rf $(BUILDDIR)/*
 
 html:
-	$(SPHINXBUILD) -E -q -b html $(ALLSPHINXOPTS) $(BUILDDIR)/htmldocs/ras-databases
+	$(SPHINXBUILD) -E -q -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html/docs/ras-databases
 	@echo
-	@echo "Build finished. The HTML pages are in $(BUILDDIR)/htmldocs/ras-databases."
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html/docs/ras-databases."
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
